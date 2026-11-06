@@ -1,0 +1,5 @@
+ea-growth-hub/
+├── api/
+│   └── smartpulse.js      <-- Your backend serverless function (handles Gemini API)
+├── package.json           <-- Defines project dependencies (@google/genai)
+└── index.html             <-- Your frontend website code (with the chat widget)

@@ -1,0 +1,8 @@
+{
+  "name": "ea-growth-hub",
+  "version": "1.0.0",
+  "description": "EA Growth Hub Platform with SmartPulse AI",
+  "dependencies": {
+    "@google/genai": "^0.1.1"
+  }
+}
